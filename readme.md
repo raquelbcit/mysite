@@ -8,3 +8,5 @@ This will include:
 * HTML
 * CSS
 * JS
+
+Next, we are going to jQuery
